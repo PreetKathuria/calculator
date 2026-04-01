@@ -18,7 +18,7 @@ A normal calculator used by user for addition , subtractioon , mulltiplication a
 1. Clone the repository
 2. Open index.html in your calculator.html on browser
 
-![Screenshot](Screenshots%202026%20144247.png)
+![Screenshot](Screenshots%202026-04-01%20144247.png)
 
 *Author 
 Made with ❤️ by Preet
